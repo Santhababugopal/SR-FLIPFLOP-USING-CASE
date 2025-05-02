@@ -40,7 +40,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 **PROGRAM**
 
 ```
-module sr_ff(s,r,clk,q,qbar);
+module EXP6(s,r,clk,q,qbar);
 input s,r,clk;
 output reg q;
 output reg qbar;
@@ -63,7 +63,8 @@ endmodule
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-![image](https://github.com/user-attachments/assets/a5ba44a5-5c18-40fd-8b86-23715f0c790a)
+![Screenshot 2025-05-02 133901](https://github.com/user-attachments/assets/99c96492-6a43-404f-8d45-da932b4903d0)
+
 
 **RESULTS**
 
